@@ -1,10 +1,10 @@
 {
-    "window.zoomLevel": 2,
-    "editor.fontSize": 20,
+    "window.zoomLevel": 3,
+    "editor.fontSize": 25,
     "editor.hover.enabled": true,
     "workbench.startupEditor": "none",
     "explorer.compactFolders": false,
-    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.fontSize": 25,
     "editor.rulers": [
         80,
         120
